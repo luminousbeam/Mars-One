@@ -1,5 +1,7 @@
-# Mars-One
+<h1>Mars-One</h1>
 
-1) What is the Mars-One mission?
-2) What is the technology involved?
-3) What are some of the potential risks and complications upon this mission?
+<ol>
+  <li> What is the Mars-One mission? </li>
+  <li> What is the technology involved? </li>
+  <li> What are some of the potential risks and complications upon this mission? </li>
+</ol>
